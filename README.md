@@ -23,7 +23,7 @@ TODO
 
 ### Case
 
-1. Print [original/Iris PE Top Shell for 1.5mm plate.stl](original/Iris PE Top Shell for 1.5mm plate.stl)
+1. Print [original/Iris PE Top Shell for 1.5mm plate.stl](original/Iris%20PE%20Top%20Shell%20for%201.5mm%20plate.stl)
    twice (once as-is and once mirrored).
 2. Print [STLs/mid-layer-left.stl](STLs/mid-layer-left.stl) twice (once as-is
    and once mirrored).
