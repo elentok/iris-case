@@ -20,7 +20,7 @@ The original STLs are included under `original/`.
 I printed all of the parts using PLA on a Prusa MK4 with a 0.4mm nozzle and 15%
 infill.
 
-I suggested printed the case and the palm rests top side down and on a textured
+I suggest to print the case and the palm rests top side down and on a textured
 surface (it hides imperfections in the first layer and makes them look more
 professional IMO).
 
