@@ -59,6 +59,11 @@ There two feet on each side, a long one at the top and short one at the bottom.
 7. Attach one extender to each rear foot adapter.
 8. Attach one bottom to every foot.
 
+**Alignment**
+
+I added a few variations for the extenders and feet bottom that add a few
+millimeters to help you find the perfect fit.
+
 ### Cover
 
 At first I used to carry the keyboard around with me so I printed a cover I can
